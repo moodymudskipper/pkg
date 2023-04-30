@@ -1,3 +1,5 @@
 ^pkg\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+^ignored
+^LICENSE\.md$
