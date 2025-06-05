@@ -2,8 +2,10 @@ Package: pkg
 Title: Package Objects
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person(given = "Antoine",
+           family = "Fabri",
+           role = c("aut", "cre"),
+           email = "antoine.fabri@gmail.com")
 Description: What if we could encapsulate a package in an R6 object ? 
 License: MIT + file LICENSE
 Encoding: UTF-8
